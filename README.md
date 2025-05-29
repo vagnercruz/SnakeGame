@@ -118,5 +118,5 @@ Este projeto está sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) pa
 
 Feito com ❤️ por **\[Vagner Matheus]**
 
-🔗 [Seu LinkedIn](https://www.linkedin.com/in/vagner-matheus/)
-🐙 [Seu GitHub](https://github.com/vagnercruz)
+🔗 [LinkedIn](https://www.linkedin.com/in/vagner-matheus/)
+🐙 [GitHub](https://github.com/vagnercruz)
